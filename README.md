@@ -9,8 +9,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
 </p>
 
+## 🌐 Navigation Bar
+- 🏠 [Home](#-overview)
+- 📖 [Algorithms](#-algorithms-covered)
+- 📊 [Repository Structure](#-repository-structure)
+- 🔍 [Feature Engineering](#-feature-engineering)
+- 🛠️ [Installation](#-installation)
+- 🤝 [Contributing](#-contributing)
+- 🔗 [Connect](#-connect-with-me)
+- 📱 [WhatsApp](https://wa.me/917671903261)
+
 ## 📌 Overview
 This repository is designed for beginners to gain a solid foundation in Machine Learning (ML). It provides step-by-step implementations of fundamental ML algorithms, theoretical explanations, and real-world applications.
+
+## 🔬 Introduction to Data Science
+Data Science is a multidisciplinary field that uses scientific methods, algorithms, and systems to extract insights from structured and unstructured data. It combines fields like statistics, machine learning, and domain expertise to drive meaningful predictions and decisions. Key areas include:
+- **Exploratory Data Analysis (EDA)**
+- **Feature Engineering**
+- **Predictive Modeling**
+- **Deep Learning**
 
 ## 🚀 Features
 - 📚 In-depth explanations with hands-on coding examples.
@@ -80,9 +97,8 @@ Contributions are welcome! If you find a bug or want to add an improvement, foll
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SURESH745)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sureshgongaliinnovations)  
-
 📧 Email: ssuresh8337@gmail.com  
-📱 WhatsApp: +91 7671903261  
+📱 [WhatsApp: +91 7671903261](https://wa.me/917671903261)  
 
 ---
 
