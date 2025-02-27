@@ -5,6 +5,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
+</p>
+
 ## 📌 Overview
 This repository is designed for beginners to gain a solid foundation in Machine Learning (ML). It provides step-by-step implementations of fundamental ML algorithms, theoretical explanations, and real-world applications.
 
@@ -34,6 +38,13 @@ Machine-Learning-Algorithms-for-Beginners/
 - ⚖️ **Support Vector Machines (SVM)** – Classification using hyperplanes.
 - 🔍 **Feature Engineering** – Handling missing data, encoding, scaling, etc.
 - 🤖 **Neural Networks (TensorFlow)** – Basics of deep learning models.
+
+## 📈 Skill Progress (Animated Bar)
+```html
+<svg width="100%" height="50">
+  <rect width="70%" height="100%" fill="#4CAF50"/>
+</svg>
+```
 
 ## 🛠️ Installation
 Ensure you have Python installed, then follow these steps:
